@@ -915,6 +915,14 @@ video {
   font-family: "Dela Gothic One", sans-serif;
 }
 
+.font-dela {
+  font-family: "Dela Gothic One", sans-serif;
+}
+
+.font-bals {
+  font-family: "Balsamiq Sans", sans-serif;
+}
+
 .hover\:scale-\[0\.8\]:hover{
   --tw-scale-x: 0.8;
   --tw-scale-y: 0.8;
